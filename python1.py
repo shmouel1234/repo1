@@ -6,4 +6,6 @@ for index, letter in enumerate(name):
     print(f"letter {index+1}: {letter}")
 print(f"your name {len(name)} letters")
 print("well done")
+print("well done 2")
+
   
